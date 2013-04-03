@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Glass in the grass]]></title>
-  <link href="http://s0ber.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Nothing | Glass in the grass]]></title>
+  <link href="http://s0ber.github.com/blog/categories/nothing/atom.xml" rel="self"/>
   <link href="http://s0ber.github.com/"/>
   <updated>2013-04-03T05:43:37+04:00</updated>
   <id>http://s0ber.github.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://s0ber.github.com/blog/2013/04/03/hello-mad-world/"/>
     <updated>2013-04-03T05:37:00+04:00</updated>
     <id>http://s0ber.github.com/blog/2013/04/03/hello-mad-world</id>
-    <content type="html"><![CDATA[<p>Hi all. My name is Sergey. I am front-end engineer at Toptal. I love music, programming, traveling and enjoying life in all aspects. Here I&#8217;ll share some notes on music, coding and maybe some other stuff.</p>
+    <content type="html"><![CDATA[<p>Hi all. My name is Sergey. I am front-end engineer at Toptal. I love music, programming, traveling and enjoying life in all aspects. Here I'll share some notes on music, coding and maybe some other stuff.</p>
 ]]></content>
   </entry>
   
