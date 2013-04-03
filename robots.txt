@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://s0ber.github.com/sitemap.xml 
