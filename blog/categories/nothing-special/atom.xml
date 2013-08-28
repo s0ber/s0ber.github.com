@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Nothing special | Glass in the grass]]></title>
   <link href="http://s0ber.github.com/blog/categories/nothing-special/atom.xml" rel="self"/>
   <link href="http://s0ber.github.com/"/>
-  <updated>2013-04-03T05:50:58+04:00</updated>
+  <updated>2013-08-29T02:38:56+04:00</updated>
   <id>http://s0ber.github.com/</id>
   <author>
     <name><![CDATA[Sergey Shishkalov]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello Mad World]]></title>
+    <title type="html"><![CDATA[Здравствуй, сумасшедший мир]]></title>
     <link href="http://s0ber.github.com/blog/2013/04/03/hello-mad-world/"/>
     <updated>2013-04-03T05:37:00+04:00</updated>
     <id>http://s0ber.github.com/blog/2013/04/03/hello-mad-world</id>
-    <content type="html"><![CDATA[<p>Hi all. My name is Sergey. I am front-end engineer at Toptal. I love music, programming, traveling and enjoying life in all aspects. Here I'll share some notes on music, coding and maybe some other stuff.</p>
+    <content type="html"><![CDATA[<p>Всем привет. Меня зовут Сергей. Я фронт-ерд разработчик в небольшой американской компании Toptal. Люблю слушать музыку, создавать хорошие интерфейсы, путешествовать и наслаждаться жизнью во всех ее аспектах. Здесь я буду делиться небольшими заметками и статьями. Надеюсь, вам понравится.</p>
 ]]></content>
   </entry>
   
