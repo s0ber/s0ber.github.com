@@ -5,9 +5,10 @@
 url: http://s0ber.github.com
 title: Слабоумие и отвага
 subtitle: "TODO: написать, о чём сайт"
-author: Сергей Шишкалова
+author: Сергей Шишкалов
 simple_search: http://google.com/search
 description:
+category_title_prefix: 'Тема: '
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
