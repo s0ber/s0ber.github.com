@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Hello Mad World"
+title: "Здравствуй, сумасшедший мир"
 date: 2013-04-03 05:37
 comments: false
-categories:
-  - Nothing special
+categories: [Nothing special]
 ---
-Hi all. My name is Sergey. I am front-end engineer at Toptal. I love music, programming, traveling and enjoying life in all aspects. Here I'll share some notes on music, coding and maybe some other stuff.
+Всем привет. Меня зовут Сергей. Я фронт-енд разработчик в небольшой американской компании Toptal. Люблю слушать музыку, создавать хорошие интерфейсы, путешествовать и наслаждаться жизнью во всех ее аспектах. Здесь я буду делиться небольшими заметками и статьями.
+
+Как и у всего в этом сумасшедшем мире, у моего блога должно быть название. Поначалу хотел назвать его "Блог Сергея Шишкалова", но решил, что мое имя не настолько благозвучное, чтобы быть названием чего-либо, кроме меня самого, поэтому пришлось придумывать что-то другое. В итоге, название нашло меня само.
+
+{% img /assets/images/imbecility_and_courage.jpg %}
